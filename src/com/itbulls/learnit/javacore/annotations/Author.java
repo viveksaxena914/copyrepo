@@ -18,7 +18,7 @@ import java.lang.annotation.Target;
 @Repeatable(Authors.class)
 public @interface Author {
 	
-	String name();
+	String name();  
 	
 	   
 }
