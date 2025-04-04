@@ -16,7 +16,7 @@ import java.lang.annotation.Target;
 @Target({TYPE, FIELD, METHOD, PARAMETER, CONSTRUCTOR, LOCAL_VARIABLE, MODULE})
 @Retention(RetentionPolicy.RUNTIME)
 @Repeatable(Authors.class)
-public @interface Author {
+public @interface Author { 
 	
 	String name();
 
