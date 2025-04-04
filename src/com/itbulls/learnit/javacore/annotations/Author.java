@@ -19,5 +19,4 @@ import java.lang.annotation.Target;
 public @interface Author {
 	
 	String name();
-
 }
