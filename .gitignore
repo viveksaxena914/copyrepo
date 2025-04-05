@@ -19,3 +19,7 @@ target/
 build/
 
 doc/
+
+
+#Jar
+jarexport.jar
